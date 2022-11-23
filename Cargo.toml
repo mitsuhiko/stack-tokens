@@ -1,0 +1,11 @@
+[package]
+name = "stack-tokens"
+version = "0.1.0"
+license = "Apache-2.0"
+authors = ["Armin Ronacher <armin.ronacher@active-4.com>"]
+description = "stack token implementation for convenient TLS borrowing"
+edition = "2018"
+rust-version = "1.42.0"
+repository = "https://github.com/mitsuhiko/stack-tokens"
+keywords = ["tls", "stack-token", "borrow"]
+readme = "README.md"
